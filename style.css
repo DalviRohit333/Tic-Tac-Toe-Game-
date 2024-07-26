@@ -36,6 +36,11 @@ body {
     background-color: #f5f17e;
 }
 
+.box:hover{
+cursor: pointer;
+background-color: #081b31;
+}
+
 #reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
