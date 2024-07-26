@@ -59,7 +59,7 @@ boxes.forEach((box) => {
             turn = false;
         }
         else {
-            box.style.color = "##b0413e";
+            box.style.color = "#b0413e";
             box.innerText = "X";
             turn = true;
         }
